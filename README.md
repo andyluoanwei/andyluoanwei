@@ -55,7 +55,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="./images/Johnson_Electric.png" />
 
 - [德昌电机(江门)有限公司](https://www.Johnsonelectric.com/) &emsp; 📌 2019-08-01 —— Now
   
