@@ -7,8 +7,17 @@
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="./assets/images/coding.gif" /><br>
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+    <td>  <!-- knock code pictures 敲代码的图片 -->
+    <img width="500" src="./assets/images/coding.gif" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/></td>
+  </tr>
+</table>
+  
+  <!-- Github-Stats-Terminal 终端风格信息 -->
+  <br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
