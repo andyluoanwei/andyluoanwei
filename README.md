@@ -7,14 +7,10 @@
     </a>
   </div>
 
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td>  <!-- knock code pictures 敲代码的图片 -->
-    <img width="500" src="./assets/images/coding.gif" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/></td>
-  </tr>
-</table>
+
+<!-- knock code pictures 敲代码的图片 -->
+<img width="500" src="./assets/images/coding.gif" />
+
   
   <!-- Github-Stats-Terminal 终端风格信息 -->
   <br>
