@@ -89,7 +89,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/foreword/history.html' target='_blank'>前端开发简史</a> - 2023-07-12
+* <a href='https://mp.weixin.qq.com/s/OCr1sivLJj76wuiDDzhXzg' target='_blank'>半监督目标检测相关方法总结</a> - 2023-07-12
 * <a href='https://brain.sunguoqi.com/web/foreword/learn-road.html' target='_blank'>前端学习路线</a> - 2023-07-12
 * <a href='https://brain.sunguoqi.com/web/html/page.html' target='_blank'>WIP</a> - 2020-01-01
 * <a href='https://brain.sunguoqi.com/web/data-visualization/basic/00.html' target='_blank'>WIP</a> - 2023-07-12
